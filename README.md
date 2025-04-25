@@ -2,3 +2,4 @@
 <h5><code>by FRANK STRÄTER</code></h5>
 
 * [PeerTube Beeld & Geluid](https://peertube.beeldengeluid.nl/)
+* [Civilization IV: RFC RAND Unofficial Patch](https://github.com/frankstrater/RFC-RAND-UP)
