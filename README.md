@@ -1,5 +1,3 @@
-# Projects
-
 <h3><mark>PROJECTS</mark></h3>
 <h4><mark>by FRANK STRÄTER</mark></h4>
 
