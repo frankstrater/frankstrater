@@ -1,5 +1,10 @@
-[![Frank's GitHub stats](https://github-readme-stats-two-delta-18.vercel.app/api?username=frankstrater)](https://github.com/anuraghazra/github-readme-stats)
+<h3><mark>PROJECTS</mark></h3>
+<h4><mark>by FRANK STRÄTER</mark></h4>
 
+<!--
+
+[![Frank's GitHub stats](https://github-readme-stats-two-delta-18.vercel.app/api?username=frankstrater)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
