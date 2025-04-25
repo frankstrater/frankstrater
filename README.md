@@ -1,6 +1,6 @@
-<h1><mark>PROJECTS</mark></h1>
+<h3><mark>PROJECTS</mark></h3>
 
-<h3><code>by FRANK STRÄTER</code></h3>
+<h5><code>by FRANK STRÄTER</code></h5>
 
 <!--
 
